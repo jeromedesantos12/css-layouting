@@ -1,0 +1,17 @@
+/*akalin float dengan overflow*/
+/*container menyesuaikan tinggi dari kontennya*/
+/*gambarnya akan dianggap ada lagi*/
+
+.container {
+	width: 500px;
+	border: 1px solid black;
+	margin: auto;
+	padding: 15px;
+	text-align: justify;	
+	overflow: auto;
+}
+
+img {
+	float: left;
+	margin: 5px;
+}

@@ -1,0 +1,22 @@
+/*body, h1, p {
+	margin: 0;
+	padding: 0;
+}
+*/
+
+/* ribet, harus satu-satu */
+
+* {
+	margin: 0;
+	padding: 0;
+}
+
+/* terlalu berat, karena semua elemen */
+/* pakai teknik eric meyer, buka web - copas - simpan di awal css*/
+/* https://meyerweb.com/eric/tools/css/reset */
+
+div {
+	width: 200px;
+	height: 200px;
+	background-color: black;
+}
